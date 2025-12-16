@@ -3,10 +3,10 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Almacen Croram</title>
+    <title>Almacén Croram</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta content="A fully featured admin theme which can be used to build CRM, CMS, etc." name="description" />
-    <meta content="Coderthemes" name="author" />
+    <meta content="Sistema de inventario de CRORAM." name="description" />
+    <meta content="HoppingJet Studio." name="author" />
 
     <!-- App favicon -->
     <link rel="shortcut icon" href="assets/images/favicon.ico">
