@@ -21,7 +21,7 @@
     <link href="assets/css/icons.min.css" rel="stylesheet" type="text/css" />
 
     <!-- Theme Config Js -->
-    <script src="assets/js/config.js"></script>
+    <script src="assets/js/config.js"></script> 
 </head>
 
 <body>
@@ -31,6 +31,7 @@
         <!-- Menu -->
         <!-- Sidenav Menu Start -->
         <?php include_once 'templates/barra.php' ?>
+        
         <!-- Sidenav Menu End -->
 
         <!-- Topbar Start -->
